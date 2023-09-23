@@ -114,14 +114,14 @@ pip install selenium --upgrade
    **3-4-1.**  
    
    
-   <img width="482" alt="image" src="https://github.com/novsh21/datacampus2023/assets/143332439/1e6be98f-6ad1-436f-8f19-3c1c45b20094">
+   <img width="482" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002815757.png"">
    
   fraud 데이터를 불러오는 곳에 '전세사기raw데이터' 엑셀파일 경로를 넣습니다.
 
   **3-4-2.**
   
    
-   <img width="465" alt="image" src="https://github.com/novsh21/datacampus2023/assets/143332439/c21cd9e7-62d3-4f8f-a353-4c1cd67029b6">
+   <img width="465" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002827846.png"">
    
    nfraud 데이터를 불러오는 곳에 '전세사기아닌raw데이터' 엑셀파일 경로를 넣습니다.
 
@@ -133,7 +133,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-   <img width="546" alt="image" src="https://github.com/novsh21/datacampus2023/assets/143332439/14c083d0-a1ae-4799-ad19-cdedccd855d0">
+   <img width="546" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002841452.png"">
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
@@ -142,7 +142,7 @@ pip install selenium --upgrade
    
    크롤링 부분 코드를 돌린 후, 아래와 같은 입력란이 생기면 **'서희스타힐스아파트'** 라고 쳐야 합니다.
 
-<img width="532" alt="image" src="https://github.com/novsh21/datacampus2023/assets/143332439/b623ccb7-1dd4-4886-a035-2c4a6b190063">
+<img width="532" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002850406.png"">
 
    
    
