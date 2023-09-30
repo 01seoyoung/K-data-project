@@ -133,7 +133,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png "이미지 URL 삽입 테스트")
+![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png)
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
