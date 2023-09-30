@@ -133,8 +133,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-![Alt text](파일경로){: width="60%"",height="40%""}
-<img src='https://github.com/01seoyoung/K-data-project/assets/98001270/1028e3e4-66ff-4095-a808-6bd95a00854d' width="60%"" height="40%"> 
+![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png "이미지 URL 삽입 테스트")
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
