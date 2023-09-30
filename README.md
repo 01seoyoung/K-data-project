@@ -133,7 +133,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-   <img width="546" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002841452.png"">
+    <img width="546" alt="KakaoTalk_20230921_002841452" src="https://github.com/01seoyoung/K-data-project/assets/98001270/34a571fc-dafb-41d2-95a5-f1027278a5b8">
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
