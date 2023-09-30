@@ -113,7 +113,7 @@ pip install selenium --upgrade
 
    **3-4-1.**  
    
-   
+   ![img_title](img_path)
    <img width="482" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002815757.png"">
    
   fraud 데이터를 불러오는 곳에 '전세사기raw데이터' 엑셀파일 경로를 넣습니다.
@@ -133,7 +133,8 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-    <img width="546" alt="KakaoTalk_20230921_002841452" src="https://github.com/01seoyoung/K-data-project/assets/98001270/34a571fc-dafb-41d2-95a5-f1027278a5b8">
+![Alt text](파일경로){: width="60%"",height="40%""}
+<img src='https://github.com/01seoyoung/K-data-project/assets/98001270/1028e3e4-66ff-4095-a808-6bd95a00854d' width="60%"" height="40%"> 
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
