@@ -132,7 +132,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-    ![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png)
+    ![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/gIQQSS9ZlA.png)
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
@@ -141,7 +141,7 @@ pip install selenium --upgrade
    
    크롤링 부분 코드를 돌린 후, 아래와 같은 입력란이 생기면 **'서희스타힐스아파트'** 라고 쳐야 합니다.
 
-    ![입력칸](https://i.esdrop.com/d/f/roqIf5Zmhy/j4i6RNFYmP.png)
+    ![입력칸](https://i.esdrop.com/d/f/roqIf5Zmhy/6SmhZpscKj.png)
    
    
    **3-4-4.** 다운 받은 **완료데이터.csv**파일을 3-4-1과 3-4-2 방법처럼 큰따옴표 사이에 경로주소를 넣습니다.
