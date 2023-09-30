@@ -112,16 +112,15 @@ pip install selenium --upgrade
 
 
    **3-4-1.**  
-   
-   ![img_title](img_path)
-   <img width="482" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002815757.png"">
+
+  ![전세사기raw데이터](https://i.esdrop.com/d/f/roqIf5Zmhy/yYMJ0HiwZf.png)
    
   fraud 데이터를 불러오는 곳에 '전세사기raw데이터' 엑셀파일 경로를 넣습니다.
 
   **3-4-2.**
   
    
-   <img width="465" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002827846.png"">
+  ![전세사기아닌raw데이](https://i.esdrop.com/d/f/roqIf5Zmhy/GK57Kzzloz.png)
    
    nfraud 데이터를 불러오는 곳에 '전세사기아닌raw데이터' 엑셀파일 경로를 넣습니다.
 
@@ -133,7 +132,7 @@ pip install selenium --upgrade
 
    **3-4-3.** 
    
-![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png)
+    ![0822data](https://i.esdrop.com/d/f/roqIf5Zmhy/9aawY6KbK4.png)
 
    위의 사진 부분에 **'0822data.csv'** 파일 주소를 넣습니다.
    
@@ -142,8 +141,7 @@ pip install selenium --upgrade
    
    크롤링 부분 코드를 돌린 후, 아래와 같은 입력란이 생기면 **'서희스타힐스아파트'** 라고 쳐야 합니다.
 
-<img width="532" alt="image" src=""C:\Users\gim31\OneDrive\바탕 화면\KakaoTalk_20230921_002850406.png"">
-
+    ![입력](https://i.esdrop.com/d/f/roqIf5Zmhy/j4i6RNFYmP.png)
    
    
    **3-4-4.** 다운 받은 **완료데이터.csv**파일을 3-4-1과 3-4-2 방법처럼 큰따옴표 사이에 경로주소를 넣습니다.
@@ -161,14 +159,12 @@ pip install selenium --upgrade
 
 ## 4. 프로젝트 시현
 
-<img width="1266" alt="KakaoTalk_20230829_145441591" src="https://github.com/novsh21/datacampus2023/assets/143332439/ff458763-1b60-4b58-8fb1-cbb87763f591">
+![처음](https://i.esdrop.com/d/f/roqIf5Zmhy/VwKOpXTR0c.png)
+![입력](https://i.esdrop.com/d/f/roqIf5Zmhy/MteKml30cT.png)
 
+![내용1](https://i.esdrop.com/d/f/roqIf5Zmhy/ECqfwuYKRH.png)
+![내용2](https://i.esdrop.com/d/f/roqIf5Zmhy/tVW2cbNows.png)
 
-<img width="1266" alt="KakaoTalk_20230829_145525131" src="https://github.com/novsh21/datacampus2023/assets/143332439/f765ba3c-407b-41c9-b9d5-b6f0f902e071">
-
-![KakaoTalk_20230829_145433662](https://github.com/novsh21/datacampus2023/assets/143332439/f956eb46-c1ed-4df5-9730-75bbd91b288b)
-
-![KakaoTalk_20230829_145512677](https://github.com/novsh21/datacampus2023/assets/143332439/62b3dc16-bcb6-4ec2-b890-baf8310b15e7)
 
 
 ## 5. 팀원명 및 팀원이름
